@@ -1,0 +1,7 @@
+# Ignore large data files and database
+data/raw/
+data/processed/
+*.db
+__pycache__/
+.ipynb_checkpoints/
+.env
